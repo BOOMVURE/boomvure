@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BOOM VURE Firewood</title>
+</head>
+<body style="font-family: Arial; text-align:center; padding:40px;">
+  <h1>🔥 BOOM VURE 🔥</h1>
+  <h2>Firewood for sale</h2>
+  <p>Delivery FREE in Alberton</p>
+  <p>R60 per tree</p>
+  <p>WhatsApp: 083 204 7293</p>
+</body>
+</html>
